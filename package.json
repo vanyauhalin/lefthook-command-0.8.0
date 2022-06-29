@@ -1,0 +1,8 @@
+{
+  "name": "0.8.0",
+  "private": true,
+  "devDependencies": {
+    "@evilmartians/lefthook": "0.8.0",
+    "eslint": "^8.18.0"
+  }
+}
